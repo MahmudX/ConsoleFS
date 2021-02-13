@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="bind_obj.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
