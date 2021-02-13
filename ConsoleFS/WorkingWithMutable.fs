@@ -1,4 +1,4 @@
-﻿module bind_obj
+﻿module WorkingWithMutable
 open System
 
 let bind() = 

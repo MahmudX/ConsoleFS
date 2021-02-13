@@ -1,5 +1,6 @@
 ﻿open System
-open bind_obj
+open WorkingWithMutable
+open DoSum
 
 let Hello() =
     printf "Enter your name: "
@@ -18,7 +19,12 @@ let DynamicPadding() =
     printfn "%5s %5s" "a" "b"
     printfn "%*s" 12 "Hi"
 
-DynamicPadding()
-bind()
+//DynamicPadding()
+
+//Do_Func()
+
+//printfn "Sum is : %i" (Sum(5,6))
+
+Work_List()
 
 Console.ReadKey() |> ignore

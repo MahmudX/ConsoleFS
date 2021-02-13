@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="bind_obj.fs" />
+    <Compile Include="DoSum.fs" />
+    <Compile Include="WorkingWithMutable.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
