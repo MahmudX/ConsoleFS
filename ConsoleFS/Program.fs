@@ -1,8 +1,11 @@
-﻿// Learn more about F# at http://fsharp.org
+﻿open System
 
-open System
+let Hello() =
+    printf "Enter your name: "
+    
+    let name = Console.ReadLine()
 
-[<EntryPoint>]
-let main argv =
-    printfn "Hello World from F#!"
-    0 // return an integer exit code
+    printfn "Hello %s" name
+
+Hello()
+Console.ReadKey() |> ignore
