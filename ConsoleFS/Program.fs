@@ -25,6 +25,8 @@ let DynamicPadding() =
 
 //printfn "Sum is : %i" (Sum(5,6))
 
-Work_List()
+//Work_List()
+
+WeirdFunc()
 
 Console.ReadKey() |> ignore
