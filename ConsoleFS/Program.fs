@@ -1,6 +1,9 @@
 ﻿open System
 open WorkingWithMutable
 open DoSum
+open ClassLibrary
+//open ContosoCpp
+
 
 let Hello() =
     printf "Enter your name: "
@@ -28,5 +31,8 @@ let DynamicPadding() =
 //Work_List()
 
 WeirdFunc()
+
+Partner.PrintPartner("Mahmud")
+//Contoso.DoSomething()
 
 Console.ReadKey() |> ignore
