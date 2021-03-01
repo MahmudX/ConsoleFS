@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj" />
-    <ProjectReference Include="..\CppDLL\CppDLL.vcxproj" />
   </ItemGroup>
 
 </Project>

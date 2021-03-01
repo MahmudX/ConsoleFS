@@ -7,8 +7,6 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ConsoleFS", "ConsoleFS\Cons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{BE6890E0-987A-45F7-BDA2-172120B78DF6}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppDLL", "CppDLL\CppDLL.vcxproj", "{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,16 +41,6 @@ Global
 		{BE6890E0-987A-45F7-BDA2-172120B78DF6}.Release|x64.Build.0 = Release|Any CPU
 		{BE6890E0-987A-45F7-BDA2-172120B78DF6}.Release|x86.ActiveCfg = Release|Any CPU
 		{BE6890E0-987A-45F7-BDA2-172120B78DF6}.Release|x86.Build.0 = Release|Any CPU
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Debug|Any CPU.ActiveCfg = Debug|Win32
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Debug|x64.ActiveCfg = Debug|x64
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Debug|x64.Build.0 = Debug|x64
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Debug|x86.ActiveCfg = Debug|Win32
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Debug|x86.Build.0 = Debug|Win32
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Release|Any CPU.ActiveCfg = Release|Win32
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Release|x64.ActiveCfg = Release|x64
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Release|x64.Build.0 = Release|x64
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Release|x86.ActiveCfg = Release|Win32
-		{9B3DBA61-A7D9-4DCB-8835-3E77DE2A77CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
